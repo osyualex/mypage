@@ -4,8 +4,6 @@
 
 _21.11.1989_
 
-![](C:\Users\ocuko\Desktop\Публикация проекта на GitHub Pages\img)
-
 
 <image src="/img/IMG_8233.JPG" alt="лето и горы">
 
